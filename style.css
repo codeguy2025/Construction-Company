@@ -1,0 +1,355 @@
+.header-contents{
+    padding: 10px 100px;
+    background-color: black;
+     color: white;
+}
+
+.first-header{
+    display: flex;
+    justify-content: space-between; 
+}
+.first-header1{
+    display: flex;
+    gap: 50px;
+}
+.first-header1 img{
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.liftImg1{
+    display: flex;
+}
+.liftImg2{
+    display: flex;
+}
+
+.first-header2 a{
+    text-decoration: none;
+    gap: 20px;
+    color: white;
+}
+.first-header2{
+    gap: 20px;
+}
+
+.second-header{
+    display: flex;
+    gap: 150px;
+}
+.second-header2{
+    display: flex;
+}
+.second-header2 input{
+    padding: 20px;
+    width: 500px;
+    margin-top: 20px;
+}
+.second-header2 img{
+    height: 30px;
+    width: 30px;
+}
+.second-header2 button{
+    height: 60px;
+    margin-top: 20px;
+    background-color: goldenrod;
+}
+.second-header3{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+}
+.second-header3 img{
+    height: 30px;
+}
+.second-header3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.rigging a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.rigging{
+    padding: 20px 50px;
+    background-color: floralwhite;
+}
+.shop{
+    background-color: darkorange;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.shop a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#second-section{
+    background: url("./images/lifting1.webp");
+    background-position: center;
+    color: white;
+    height: 400px;
+}
+.hoists{
+    padding: 50px;
+    font-size: 30px;
+}
+.hoists button{
+    background-color: goldenrod;
+    padding: 20px;
+    border-radius: 10px;
+}
+.hoists a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+.hoists img{
+    width: 15px;
+
+}
+
+#third-section{
+    padding: 100px;
+}
+
+.card-container{
+    display: flex;
+    gap: 50px;
+}
+.card-container img{
+    border-bottom: 1px solid goldenrod;
+}
+.card-container1{
+    border: 1px lightgray solid;
+    padding: 20px;
+}
+.card-container1 img{
+    height: 200px;
+}
+.card-container2{
+    border: 1px lightgray solid;
+    padding: 20px;
+}
+.card-container2 img{
+    width: 200px;
+}
+.card-container3{
+    border: 1px lightgray solid;
+    padding: 20px;
+}
+.card-container3 img{
+    height: 200px;
+}
+.card-container4{
+    border: 1px lightgray solid;
+    padding: 20px;
+}
+.card-container4 img{
+    height: 200px;
+}
+.card-container5{
+    border: 1px lightgray solid;
+    padding: 20px;
+}
+.card-container5 img{
+    height: 200px;
+    border-bottom: 1px solid goldenrod;
+}
+
+#sixth-section{
+    background: url("./images/train_lifting.webp");
+}
+.train-lift{
+    width: 30%;
+    padding: 20px 40px;
+    background-color: goldenrod;
+    margin-left: 100px;
+}
+.truck-lift{
+    height: 30px;
+    margin-top: 20px;
+}
+.speed{
+    display: flex;
+    gap: 20px;
+}
+.speed-dial2{
+    margin-top: px;
+}
+
+.black-arrow{
+    width: 20px;
+}
+.combined{
+    display: flex;
+    gap: 30px;
+}
+.email-us{
+    display: flex;
+    gap: 20px;
+    border-left: 1px black solid;
+}
+.email-image{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.email-us2 a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.industry-fav{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.industry-fav button{
+    padding: 20px;
+    background-color: orange;
+    width: 100%;
+    color: white;
+    border-color: orange;
+}
+.industry-fav button:hover{
+    background-color: darkorange;
+}
+.industry-fav p{
+    color: red;
+    font-size: 20px;
+}
+.industry-fav img{
+    height: 250px;
+    width: 350px;
+}
+
+/* .first-batch{
+    display: flex;
+    gap: 50px;
+}
+.second-batch{
+    display: flex;
+    margin-top: 50px;
+}
+#fifth-section{
+    background-color: ghostwhite;
+    padding: 50px;
+}
+
+.shop-brands{
+    display: flex;
+    justify-content: space-between;
+}
+.official h1{
+    font-size: 30px;
+}
+.all-brands{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.cm{
+    background-color: white;
+    width: 250px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.cm img{
+    width: 200px;
+    margin-top: 40%;
+} 
+.cm-head{
+    border-top: 1px solid gray;
+}
+
+.tandemloc{
+    background-color: white;
+    width: 250px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.tandemloc img{
+    width: 200px;
+    margin-top: 40%;
+}
+.tandemloc-head{
+    border-top: 1px solid gray;
+}
+
+.bison{
+    background-color: white;
+    width: 250px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.bison img{
+    width: 200px;
+    margin-top: 20%;
+}
+.bison-head{
+    border-top: 1px solid gray;
+}
+
+.thern{
+    background-color: white;
+    width: 250px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.thern img{
+    width: 200px;
+    margin-top: 20%;
+}
+.thern-head{
+    border-top: 1px solid gray;
+}
+
+.hackett{
+    background-color: white;
+    width: 250px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.hackett img{
+    width: 200px;
+    margin-top: 40%;
+}
+
+.dica{
+    background-color: white;
+    width: 250px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.dica img{
+    width: 200px;
+    margin-top: 40%;
+}
+.dica-head{
+    border-top: 1px solid gray;
+} */
