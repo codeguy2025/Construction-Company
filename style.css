@@ -236,120 +236,58 @@
     width: 350px;
 }
 
-/* .first-batch{
+.general{
+    padding: 20px;
     display: flex;
-    gap: 50px;
+    gap: 30px;
+    justify-content: center;
 }
-.second-batch{
+.major{
+    padding: 20px;
     display: flex;
-    margin-top: 50px;
+    gap: 30px;
+    justify-content: center;
 }
-#fifth-section{
-    background-color: ghostwhite;
-    padding: 50px;
+.commander{
+    padding: 20px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
 }
 
-.shop-brands{
+.buy-rig{
+    height: 450px;
+    width: 200px;
+    border: 1px solid lightgray;
+    padding: 10px;
+}
+.rig-hoist{
+    border-bottom: 1px solid black;
+}
+.buy11{
     display: flex;
     justify-content: space-between;
 }
-.official h1{
-    font-size: 30px;
+.favorites {
+    height: 20px;
+    display: flex;
+    justify-content: right;
+    margin-top: 10px;
+    margin-left: 180px;
 }
-.all-brands{
+.buy11 a{
     text-decoration: none;
-    font-size: 30px;
+    color: white;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.buy1 p{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
 }
 
-.cm{
-    background-color: white;
-    width: 250px;
-    height:300px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-.cm img{
-    width: 200px;
-    margin-top: 40%;
+#fifth-section{
+    padding: 50px;
 } 
-.cm-head{
-    border-top: 1px solid gray;
-}
-
-.tandemloc{
-    background-color: white;
-    width: 250px;
-    height:300px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-.tandemloc img{
-    width: 200px;
-    margin-top: 40%;
-}
-.tandemloc-head{
-    border-top: 1px solid gray;
-}
-
-.bison{
-    background-color: white;
-    width: 250px;
-    height:300px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-.bison img{
-    width: 200px;
-    margin-top: 20%;
-}
-.bison-head{
-    border-top: 1px solid gray;
-}
-
-.thern{
-    background-color: white;
-    width: 250px;
-    height:300px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-.thern img{
-    width: 200px;
-    margin-top: 20%;
-}
-.thern-head{
-    border-top: 1px solid gray;
-}
-
-.hackett{
-    background-color: white;
-    width: 250px;
-    height:300px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-.hackett img{
-    width: 200px;
-    margin-top: 40%;
-}
-
-.dica{
-    background-color: white;
-    width: 250px;
-    height:300px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-.dica img{
-    width: 200px;
-    margin-top: 40%;
-}
-.dica-head{
-    border-top: 1px solid gray;
-} */
